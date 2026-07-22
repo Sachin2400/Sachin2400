@@ -27,7 +27,12 @@ def pixels_to_ascii(image):
     return chars
 
 
-image = Image.open("../assets/profile-photo.png")
+from pathlib import Path
+
+BASE_DIR = Path(__file__).resolve().parent.parent
+IMAGE_PATH = BASE_DIR / "assets" / "profile-photo.png"
+
+image = Image.open(IMAGE_PATH)
 
 image = resize_image(image)
 
@@ -42,7 +47,9 @@ ascii_image = ""
 for i in range(0, pixel_count, WIDTH):
     ascii_image += ascii_str[i:i + WIDTH] + "\n"
 
-with open("../assets/ascii.txt", "w", encoding="utf-8") as f:
+OUTPUT_PATH = BASE_DIR / "assets" / "ascii.txt"
+
+with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
     f.write(ascii_image)
 
 print("ASCII portrait generated!")

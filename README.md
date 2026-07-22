@@ -1,10 +1,9 @@
 <div align="center">
-
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sachin2400/Sachin2400/main/.github/assets/dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sachin2400/Sachin2400/main/.github/assets/light.svg">
-    <img alt="Sachin Choudhary Hero Banner" src="https://raw.githubusercontent.com/Sachin2400/Sachin2400/main/.github/assets/dark.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/your-username/your-repo/main/.github/assets/dark.svg">
+    <img alt="Sachin's Profile Banner" src="https://raw.githubusercontent.com/your-username/your-repo/main/.github/assets/light.svg">
   </picture>
+</div>
 
   <br><br>
 

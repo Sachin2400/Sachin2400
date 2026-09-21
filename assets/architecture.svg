@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 470" width="1200" height="470" role="img" aria-label="Enterprise MCP gateway request path with trust boundary">
+<title>Enterprise MCP gateway request path with trust boundary</title>
+<defs>
+<pattern id="minor" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#cfe0f5" stroke-opacity="0.10" stroke-width="1"/></pattern>
+<pattern id="major" width="100" height="100" patternUnits="userSpaceOnUse"><path d="M100 0H0V100" fill="none" stroke="#cfe0f5" stroke-opacity="0.18" stroke-width="1"/></pattern>
+<marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#cfe0f5"/></marker>
+<marker id="arrowY" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#f5c542"/></marker>
+</defs>
+<rect width="1200" height="470" fill="#163a6b"/>
+<rect width="1200" height="470" fill="url(#minor)"/>
+<rect width="1200" height="470" fill="url(#major)"/>
+<rect x="30" y="30" width="1140" height="410" fill="none" stroke="#cfe0f5" stroke-width="1.5"/>
+<rect x="36" y="36" width="1128" height="398" fill="none" stroke="#cfe0f5" stroke-opacity="0.35" stroke-width="1"/>
+<text x="125.0" y="21" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#7fa3d3" text-anchor="middle" font-weight="400" >1</text>
+<text x="125.0" y="459" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#7fa3d3" text-anchor="middle" font-weight="400" >1</text>
+<text x="315.0" y="21" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#7fa3d3" text-anchor="middle" font-weight="400" >2</text>
+<text x="315.0" y="459" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#7fa3d3" text-anchor="middle" font-weight="400" >2</text>
+<path d="M220.0 30v6M220.0 440v-6" stroke="#cfe0f5" stroke-opacity="0.5"/>
+<text x="505.0" y="21" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#7fa3d3" text-anchor="middle" font-weight="400" >3</text>
+<text x="505.0" y="459" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#7fa3d3" text-anchor="middle" font-weight="400" >3</text>
+<path d="M410.0 30v6M410.0 440v-6" stroke="#cfe0f5" stroke-opacity="0.5"/>
+<text x="695.0" y="21" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#7fa3d3" text-anchor="middle" font-weight="400" >4</text>
+<text x="695.0" y="459" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#7fa3d3" text-anchor="middle" font-weight="400" >4</text>
+<path d="M600.0 30v6M600.0 440v-6" stroke="#cfe0f5" stroke-opacity="0.5"/>
+<text x="885.0" y="21" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#7fa3d3" text-anchor="middle" font-weight="400" >5</text>
+<text x="885.0" y="459" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#7fa3d3" text-anchor="middle" font-weight="400" >5</text>
+<path d="M790.0 30v6M790.0 440v-6" stroke="#cfe0f5" stroke-opacity="0.5"/>
+<text x="1075.0" y="21" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#7fa3d3" text-anchor="middle" font-weight="400" >6</text>
+<text x="1075.0" y="459" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#7fa3d3" text-anchor="middle" font-weight="400" >6</text>
+<path d="M980.0 30v6M980.0 440v-6" stroke="#cfe0f5" stroke-opacity="0.5"/>
+<text x="15" y="85.25" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#7fa3d3" text-anchor="middle" font-weight="400" >A</text>
+<text x="1185" y="85.25" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#7fa3d3" text-anchor="middle" font-weight="400" >A</text>
+<text x="15" y="187.75" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#7fa3d3" text-anchor="middle" font-weight="400" >B</text>
+<text x="1185" y="187.75" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#7fa3d3" text-anchor="middle" font-weight="400" >B</text>
+<text x="15" y="290.25" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#7fa3d3" text-anchor="middle" font-weight="400" >C</text>
+<text x="1185" y="290.25" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#7fa3d3" text-anchor="middle" font-weight="400" >C</text>
+<text x="15" y="392.75" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#7fa3d3" text-anchor="middle" font-weight="400" >D</text>
+<text x="1185" y="392.75" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#7fa3d3" text-anchor="middle" font-weight="400" >D</text>
+<text x="70" y="74" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#7fa3d3" text-anchor="start" font-weight="400" >Request path</text>
+<rect x="60" y="200" width="130" height="60" rx="2" fill="#0f2c54" stroke="#cfe0f5" stroke-width="1.5"/>
+<text x="125.0" y="235.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#eaf2ff" text-anchor="middle" font-weight="600" >User query</text>
+<rect x="225" y="190" width="170" height="80" rx="2" fill="#0f2c54" stroke="#cfe0f5" stroke-width="1.5"/>
+<text x="310.0" y="212" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#eaf2ff" text-anchor="middle" font-weight="600" >Supervisor agent</text>
+<text x="310.0" y="230" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12" fill="#9fbde3" text-anchor="middle" font-weight="400" >routes to sql, rag or none</text>
+<rect x="440" y="116" width="160" height="64" rx="2" fill="#0f2c54" stroke="#cfe0f5" stroke-width="1.5"/>
+<text x="520.0" y="138" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#eaf2ff" text-anchor="middle" font-weight="600" >SQL agent</text>
+<text x="520.0" y="156" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12" fill="#9fbde3" text-anchor="middle" font-weight="400" >writes one SELECT</text>
+<rect x="440" y="280" width="160" height="64" rx="2" fill="#0f2c54" stroke="#cfe0f5" stroke-width="1.5"/>
+<text x="520.0" y="302" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#eaf2ff" text-anchor="middle" font-weight="600" >RAG agent</text>
+<text x="520.0" y="320" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12" fill="#9fbde3" text-anchor="middle" font-weight="400" >picks a search keyword</text>
+<rect x="225" y="350" width="170" height="50" rx="2" fill="#0f2c54" stroke="#7fa3d3" stroke-width="1.5" stroke-dasharray="5 4"/>
+<text x="310.0" y="380.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#eaf2ff" text-anchor="middle" font-weight="600" >No match: safe reply</text>
+<path d="M190 230L225 230" stroke="#cfe0f5" stroke-width="1.5" fill="none" marker-end="url(#arrow)"/>
+<path d="M395 215L440 150" stroke="#cfe0f5" stroke-width="1.5" fill="none" marker-end="url(#arrow)"/>
+<path d="M395 245L440 312" stroke="#cfe0f5" stroke-width="1.5" fill="none" marker-end="url(#arrow)"/>
+<path d="M310 270L310 350" stroke="#7fa3d3" stroke-width="1.5" fill="none" marker-end="url(#arrow)" stroke-dasharray="5 4"/>
+<rect x="640" y="90" width="390" height="316" fill="none" stroke="#f5c542" stroke-width="1.8" stroke-dasharray="9 6"/>
+<text x="655" y="84" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#f5c542" text-anchor="start" font-weight="400" >MCP server: trust boundary</text>
+<rect x="662" y="106" width="346" height="72" rx="2" fill="#0f2c54" stroke="#cfe0f5" stroke-width="1.5"/>
+<text x="835.0" y="128" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#eaf2ff" text-anchor="middle" font-weight="600" >query_database: safety gate</text>
+<text x="835.0" y="146" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12" fill="#9fbde3" text-anchor="middle" font-weight="400" >SELECT only, no stacked statements or comments,</text>
+<text x="835.0" y="161" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12" fill="#9fbde3" text-anchor="middle" font-weight="400" >keyword blocklist, role table check, LIMIT 10</text>
+<rect x="662" y="196" width="346" height="58" rx="2" fill="#0f2c54" stroke="#cfe0f5" stroke-width="1.5"/>
+<text x="835.0" y="218" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#eaf2ff" text-anchor="middle" font-weight="600" >SQLite authorizer</text>
+<text x="835.0" y="236" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12" fill="#9fbde3" text-anchor="middle" font-weight="400" >read-only at the engine, tables limited per role</text>
+<rect x="662" y="272" width="346" height="58" rx="2" fill="#0f2c54" stroke="#cfe0f5" stroke-width="1.5"/>
+<text x="835.0" y="294" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#eaf2ff" text-anchor="middle" font-weight="600" >PII masking</text>
+<text x="835.0" y="312" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12" fill="#9fbde3" text-anchor="middle" font-weight="400" >emails and SSNs masked before results leave</text>
+<rect x="662" y="346" width="346" height="46" rx="2" fill="#0f2c54" stroke="#cfe0f5" stroke-width="1.5"/>
+<text x="835.0" y="374.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#eaf2ff" text-anchor="middle" font-weight="600" >search_policies: keyword search, 3 results</text>
+<path d="M835 178L835 196" stroke="#cfe0f5" stroke-width="1.5" fill="none" marker-end="url(#arrow)"/>
+<path d="M835 254L835 272" stroke="#cfe0f5" stroke-width="1.5" fill="none" marker-end="url(#arrow)"/>
+<path d="M600 148L662 142" stroke="#cfe0f5" stroke-width="1.5" fill="none" marker-end="url(#arrow)"/>
+<path d="M600 312H630V369H662" stroke="#cfe0f5" stroke-width="1.5" fill="none" marker-end="url(#arrow)"/>
+<rect x="1066" y="200" width="88" height="60" rx="2" fill="#0f2c54" stroke="#cfe0f5" stroke-width="1.5"/>
+<text x="1110.0" y="222" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#eaf2ff" text-anchor="middle" font-weight="600" >Summarizer</text>
+<text x="1110.0" y="240" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12" fill="#9fbde3" text-anchor="middle" font-weight="400" >Claude,</text>
+<text x="1110.0" y="255" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12" fill="#9fbde3" text-anchor="middle" font-weight="400" >optional</text>
+<path d="M1008 301H1048V230H1066M1008 369H1048V301" stroke="#cfe0f5" stroke-width="1.5" fill="none"/>
+<path d="M1048 230H1066" stroke="#cfe0f5" stroke-width="1.5" fill="none" marker-end="url(#arrow)"/>
+<text x="70" y="432" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="17" fill="#f5c542" text-anchor="start" font-weight="600" >The model proposes. The server decides.</text>
+</svg>

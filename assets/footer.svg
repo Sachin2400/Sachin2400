@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" width="1200" height="150" role="img" aria-label="End of sheet">
+<title>End of sheet</title>
+<defs>
+<pattern id="minor" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#cfe0f5" stroke-opacity="0.10" stroke-width="1"/></pattern>
+<pattern id="major" width="100" height="100" patternUnits="userSpaceOnUse"><path d="M100 0H0V100" fill="none" stroke="#cfe0f5" stroke-opacity="0.18" stroke-width="1"/></pattern>
+<marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#cfe0f5"/></marker>
+<marker id="arrowY" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#f5c542"/></marker>
+</defs>
+<rect width="1200" height="150" fill="#163a6b"/>
+<rect width="1200" height="150" fill="url(#minor)"/>
+<rect width="1200" height="150" fill="url(#major)"/>
+<rect x="30" y="24" width="1140" height="102" fill="none" stroke="#cfe0f5" stroke-width="1.5"/>
+<text x="60" y="66" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="22" fill="#eaf2ff" text-anchor="start" font-weight="600" >End of sheet.</text>
+<text x="60" y="96" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#9fbde3" text-anchor="start" font-weight="400" >Scope changes, site visits and hard problems are welcome.</text>
+<rect x="830" y="24" width="340" height="102" fill="#0f2c54" stroke="#cfe0f5" stroke-width="1.5"/>
+<text x="844" y="46" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#7fa3d3" text-anchor="start" font-weight="400" >Drawn by</text>
+<text x="930" y="46" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#eaf2ff" text-anchor="start" font-weight="400" >Sachin Kumar Choudhary</text>
+<path d="M830 58h340" stroke="#cfe0f5" stroke-opacity="0.35"/>
+<text x="844" y="80" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#7fa3d3" text-anchor="start" font-weight="400" >Revision</text>
+<text x="930" y="80" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#eaf2ff" text-anchor="start" font-weight="400" >2026.09</text>
+<path d="M830 92h340" stroke="#cfe0f5" stroke-opacity="0.35"/>
+<text x="844" y="114" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#7fa3d3" text-anchor="start" font-weight="400" >Sheet</text>
+<text x="930" y="114" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#eaf2ff" text-anchor="start" font-weight="400" >1 of 1</text>
+</svg>

@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-label="Sachin Kumar Choudhary, Forward Deployed Engineer: profile drawing sheet">
+<title>Sachin Kumar Choudhary, Forward Deployed Engineer: profile drawing sheet</title>
+<defs>
+<pattern id="minor" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#cfe0f5" stroke-opacity="0.10" stroke-width="1"/></pattern>
+<pattern id="major" width="100" height="100" patternUnits="userSpaceOnUse"><path d="M100 0H0V100" fill="none" stroke="#cfe0f5" stroke-opacity="0.18" stroke-width="1"/></pattern>
+<marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#cfe0f5"/></marker>
+<marker id="arrowY" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#f5c542"/></marker>
+</defs>
+<rect width="1200" height="420" fill="#163a6b"/>
+<rect width="1200" height="420" fill="url(#minor)"/>
+<rect width="1200" height="420" fill="url(#major)"/>
+<rect x="30" y="30" width="1140" height="360" fill="none" stroke="#cfe0f5" stroke-width="1.5"/>
+<rect x="36" y="36" width="1128" height="348" fill="none" stroke="#cfe0f5" stroke-opacity="0.35" stroke-width="1"/>
+<text x="125.0" y="21" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#7fa3d3" text-anchor="middle" font-weight="400" >1</text>
+<text x="125.0" y="409" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#7fa3d3" text-anchor="middle" font-weight="400" >1</text>
+<text x="315.0" y="21" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#7fa3d3" text-anchor="middle" font-weight="400" >2</text>
+<text x="315.0" y="409" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#7fa3d3" text-anchor="middle" font-weight="400" >2</text>
+<path d="M220.0 30v6M220.0 390v-6" stroke="#cfe0f5" stroke-opacity="0.5"/>
+<text x="505.0" y="21" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#7fa3d3" text-anchor="middle" font-weight="400" >3</text>
+<text x="505.0" y="409" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#7fa3d3" text-anchor="middle" font-weight="400" >3</text>
+<path d="M410.0 30v6M410.0 390v-6" stroke="#cfe0f5" stroke-opacity="0.5"/>
+<text x="695.0" y="21" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#7fa3d3" text-anchor="middle" font-weight="400" >4</text>
+<text x="695.0" y="409" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#7fa3d3" text-anchor="middle" font-weight="400" >4</text>
+<path d="M600.0 30v6M600.0 390v-6" stroke="#cfe0f5" stroke-opacity="0.5"/>
+<text x="885.0" y="21" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#7fa3d3" text-anchor="middle" font-weight="400" >5</text>
+<text x="885.0" y="409" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#7fa3d3" text-anchor="middle" font-weight="400" >5</text>
+<path d="M790.0 30v6M790.0 390v-6" stroke="#cfe0f5" stroke-opacity="0.5"/>
+<text x="1075.0" y="21" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#7fa3d3" text-anchor="middle" font-weight="400" >6</text>
+<text x="1075.0" y="409" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#7fa3d3" text-anchor="middle" font-weight="400" >6</text>
+<path d="M980.0 30v6M980.0 390v-6" stroke="#cfe0f5" stroke-opacity="0.5"/>
+<text x="15" y="79.0" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#7fa3d3" text-anchor="middle" font-weight="400" >A</text>
+<text x="1185" y="79.0" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#7fa3d3" text-anchor="middle" font-weight="400" >A</text>
+<text x="15" y="169.0" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#7fa3d3" text-anchor="middle" font-weight="400" >B</text>
+<text x="1185" y="169.0" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#7fa3d3" text-anchor="middle" font-weight="400" >B</text>
+<text x="15" y="259.0" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#7fa3d3" text-anchor="middle" font-weight="400" >C</text>
+<text x="1185" y="259.0" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#7fa3d3" text-anchor="middle" font-weight="400" >C</text>
+<text x="15" y="349.0" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#7fa3d3" text-anchor="middle" font-weight="400" >D</text>
+<text x="1185" y="349.0" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#7fa3d3" text-anchor="middle" font-weight="400" >D</text>
+<text x="70" y="80" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#7fa3d3" text-anchor="start" font-weight="400" >Drawing set: field engineer profile, sheet 1 of 1</text>
+<text x="70" y="190" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="50" fill="#eaf2ff" text-anchor="start" font-weight="300" textLength="640" lengthAdjust="spacingAndGlyphs">Sachin Kumar Choudhary</text>
+<g stroke="#f5c542" stroke-width="1.6" fill="none">
+<path d="M70 212H710" stroke-dasharray="640"><animate attributeName="stroke-dashoffset" from="640" to="0" dur="1.6s" fill="freeze"/></path>
+<path d="M70 204v16M710 204v16"/>
+</g>
+<text x="390" y="232" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#f5c542" text-anchor="middle" font-weight="400" >one engineer, from the first call to production</text>
+<text x="70" y="266" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="30" fill="#f5c542" text-anchor="start" font-weight="600" >Forward Deployed Engineer</text>
+<text x="70" y="296" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16" fill="#9fbde3" text-anchor="start" font-weight="400" >Software, data and AI systems, deployed where the customer works.</text>
+<text x="70" y="334" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#7fa3d3" text-anchor="start" font-weight="400" >Notes</text>
+<text x="70" y="354" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#9fbde3" text-anchor="start" font-weight="400" >1. Start on the customer's real data, not a mock.</text>
+<text x="70" y="372" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#9fbde3" text-anchor="start" font-weight="400" >2. Ship the smallest useful slice first, then widen it.</text>
+<text x="810" y="58" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#7fa3d3" text-anchor="start" font-weight="400" >Typical engagement</text>
+<rect x="810" y="68" width="240" height="42" rx="2" fill="#0f2c54" stroke="#cfe0f5" stroke-width="1.5"/>
+<text x="930.0" y="94.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#eaf2ff" text-anchor="middle" font-weight="600" >Customer systems and users</text>
+<rect x="810" y="140" width="240" height="42" rx="2" fill="#0f2c54" stroke="#f5c542" stroke-width="2"/>
+<text x="930.0" y="166.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#eaf2ff" text-anchor="middle" font-weight="600" >Integration and service layer</text>
+<rect x="810" y="212" width="240" height="42" rx="2" fill="#0f2c54" stroke="#cfe0f5" stroke-width="1.5"/>
+<text x="930.0" y="238.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#eaf2ff" text-anchor="middle" font-weight="600" >Data, models and monitoring</text>
+<path d="M930 110L930 140" stroke="#cfe0f5" stroke-width="1.5" fill="none" marker-end="url(#arrow)"/>
+<path d="M930 182L930 212" stroke="#cfe0f5" stroke-width="1.5" fill="none" marker-end="url(#arrow)"/>
+<text x="1064" y="166" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#f5c542" text-anchor="start" font-weight="400" >where I work</text>
+<rect x="770" y="296" width="400" height="94" fill="#0f2c54" stroke="#cfe0f5" stroke-width="1.5"/>
+<path d="M870 296v94" stroke="#cfe0f5" stroke-opacity="0.6"/>
+<text x="780" y="312.0" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#7fa3d3" text-anchor="start" font-weight="400" >Site</text>
+<text x="880" y="312.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#eaf2ff" text-anchor="start" font-weight="400" >Customer environment</text>
+<path d="M770 319.5h400" stroke="#cfe0f5" stroke-opacity="0.35"/>
+<text x="780" y="335.5" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#7fa3d3" text-anchor="start" font-weight="400" >Discipline</text>
+<text x="880" y="335.5" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#eaf2ff" text-anchor="start" font-weight="400" >Backend, data, GenAI</text>
+<path d="M770 343.0h400" stroke="#cfe0f5" stroke-opacity="0.35"/>
+<text x="780" y="359.0" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#7fa3d3" text-anchor="start" font-weight="400" >Revision</text>
+<text x="880" y="359.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#eaf2ff" text-anchor="start" font-weight="400" >2026.09</text>
+<path d="M770 366.5h400" stroke="#cfe0f5" stroke-opacity="0.35"/>
+<text x="780" y="382.5" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#7fa3d3" text-anchor="start" font-weight="400" >Status</text>
+<circle cx="888" cy="378.0" r="4" fill="#4ade80"><animate attributeName="opacity" values="1;0.25;1" dur="2.4s" repeatCount="indefinite"/></circle>
+<text x="900" y="382.5" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#eaf2ff" text-anchor="start" font-weight="400" >Open to FDE roles</text>
+</svg>

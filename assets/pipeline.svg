@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 330" width="1200" height="330" role="img" aria-label="How an engagement runs: discover, define, prototype, integrate, deploy, hand over">
+<title>How an engagement runs: discover, define, prototype, integrate, deploy, hand over</title>
+<defs>
+<pattern id="minor" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#cfe0f5" stroke-opacity="0.10" stroke-width="1"/></pattern>
+<pattern id="major" width="100" height="100" patternUnits="userSpaceOnUse"><path d="M100 0H0V100" fill="none" stroke="#cfe0f5" stroke-opacity="0.18" stroke-width="1"/></pattern>
+<marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#cfe0f5"/></marker>
+<marker id="arrowY" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#f5c542"/></marker>
+</defs>
+<rect width="1200" height="330" fill="#163a6b"/>
+<rect width="1200" height="330" fill="url(#minor)"/>
+<rect width="1200" height="330" fill="url(#major)"/>
+<rect x="30" y="30" width="1140" height="270" fill="none" stroke="#cfe0f5" stroke-width="1.5"/>
+<rect x="36" y="36" width="1128" height="258" fill="none" stroke="#cfe0f5" stroke-opacity="0.35" stroke-width="1"/>
+<text x="125.0" y="21" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#7fa3d3" text-anchor="middle" font-weight="400" >1</text>
+<text x="125.0" y="319" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#7fa3d3" text-anchor="middle" font-weight="400" >1</text>
+<text x="315.0" y="21" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#7fa3d3" text-anchor="middle" font-weight="400" >2</text>
+<text x="315.0" y="319" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#7fa3d3" text-anchor="middle" font-weight="400" >2</text>
+<path d="M220.0 30v6M220.0 300v-6" stroke="#cfe0f5" stroke-opacity="0.5"/>
+<text x="505.0" y="21" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#7fa3d3" text-anchor="middle" font-weight="400" >3</text>
+<text x="505.0" y="319" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#7fa3d3" text-anchor="middle" font-weight="400" >3</text>
+<path d="M410.0 30v6M410.0 300v-6" stroke="#cfe0f5" stroke-opacity="0.5"/>
+<text x="695.0" y="21" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#7fa3d3" text-anchor="middle" font-weight="400" >4</text>
+<text x="695.0" y="319" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#7fa3d3" text-anchor="middle" font-weight="400" >4</text>
+<path d="M600.0 30v6M600.0 300v-6" stroke="#cfe0f5" stroke-opacity="0.5"/>
+<text x="885.0" y="21" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#7fa3d3" text-anchor="middle" font-weight="400" >5</text>
+<text x="885.0" y="319" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#7fa3d3" text-anchor="middle" font-weight="400" >5</text>
+<path d="M790.0 30v6M790.0 300v-6" stroke="#cfe0f5" stroke-opacity="0.5"/>
+<text x="1075.0" y="21" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#7fa3d3" text-anchor="middle" font-weight="400" >6</text>
+<text x="1075.0" y="319" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#7fa3d3" text-anchor="middle" font-weight="400" >6</text>
+<path d="M980.0 30v6M980.0 300v-6" stroke="#cfe0f5" stroke-opacity="0.5"/>
+<text x="15" y="67.75" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#7fa3d3" text-anchor="middle" font-weight="400" >A</text>
+<text x="1185" y="67.75" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#7fa3d3" text-anchor="middle" font-weight="400" >A</text>
+<text x="15" y="135.25" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#7fa3d3" text-anchor="middle" font-weight="400" >B</text>
+<text x="1185" y="135.25" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#7fa3d3" text-anchor="middle" font-weight="400" >B</text>
+<text x="15" y="202.75" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#7fa3d3" text-anchor="middle" font-weight="400" >C</text>
+<text x="1185" y="202.75" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#7fa3d3" text-anchor="middle" font-weight="400" >C</text>
+<text x="15" y="270.25" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#7fa3d3" text-anchor="middle" font-weight="400" >D</text>
+<text x="1185" y="270.25" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#7fa3d3" text-anchor="middle" font-weight="400" >D</text>
+<text x="70" y="74" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#7fa3d3" text-anchor="start" font-weight="400" >How an engagement runs</text>
+<path d="M90 96H358M90 89v14M358 89v14" stroke="#f5c542" stroke-width="1.4" fill="none"/>
+<text x="224.0" y="88" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#f5c542" text-anchor="middle" font-weight="400" >Learn</text>
+<path d="M466 96H734M466 89v14M734 89v14" stroke="#f5c542" stroke-width="1.4" fill="none"/>
+<text x="600.0" y="88" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#f5c542" text-anchor="middle" font-weight="400" >Build</text>
+<path d="M842 96H1110M842 89v14M1110 89v14" stroke="#f5c542" stroke-width="1.4" fill="none"/>
+<text x="976.0" y="88" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#f5c542" text-anchor="middle" font-weight="400" >Land</text>
+<path d="M160 140H288" stroke="#cfe0f5" stroke-width="1.5" stroke-dasharray="6 6" fill="none"><animate attributeName="stroke-dashoffset" from="24" to="0" dur="2s" repeatCount="indefinite"/></path>
+<path d="M348 140H476" stroke="#cfe0f5" stroke-width="1.5" stroke-dasharray="6 6" fill="none"><animate attributeName="stroke-dashoffset" from="24" to="0" dur="2s" repeatCount="indefinite"/></path>
+<path d="M536 140H664" stroke="#cfe0f5" stroke-width="1.5" stroke-dasharray="6 6" fill="none"><animate attributeName="stroke-dashoffset" from="24" to="0" dur="2s" repeatCount="indefinite"/></path>
+<path d="M724 140H852" stroke="#cfe0f5" stroke-width="1.5" stroke-dasharray="6 6" fill="none"><animate attributeName="stroke-dashoffset" from="24" to="0" dur="2s" repeatCount="indefinite"/></path>
+<path d="M912 140H1040" stroke="#cfe0f5" stroke-width="1.5" stroke-dasharray="6 6" fill="none"><animate attributeName="stroke-dashoffset" from="24" to="0" dur="2s" repeatCount="indefinite"/></path>
+<circle cx="130" cy="140" r="27" fill="#0f2c54" stroke="#cfe0f5" stroke-width="1.8"/>
+<text x="130" y="147" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="20" fill="#eaf2ff" text-anchor="middle" font-weight="600" >1</text>
+<text x="130" y="204" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="18" fill="#eaf2ff" text-anchor="middle" font-weight="600" >Discover</text>
+<text x="130" y="228" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#9fbde3" text-anchor="middle" font-weight="400" >Map the workflow, data,</text>
+<text x="130" y="246" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#9fbde3" text-anchor="middle" font-weight="400" >users and constraints</text>
+<circle cx="318" cy="140" r="27" fill="#0f2c54" stroke="#cfe0f5" stroke-width="1.8"/>
+<text x="318" y="147" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="20" fill="#eaf2ff" text-anchor="middle" font-weight="600" >2</text>
+<text x="318" y="204" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="18" fill="#eaf2ff" text-anchor="middle" font-weight="600" >Define</text>
+<text x="318" y="228" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#9fbde3" text-anchor="middle" font-weight="400" >Agree success metrics and</text>
+<text x="318" y="246" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#9fbde3" text-anchor="middle" font-weight="400" >the smallest useful slice</text>
+<circle cx="506" cy="140" r="27" fill="#0f2c54" stroke="#cfe0f5" stroke-width="1.8"/>
+<text x="506" y="147" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="20" fill="#eaf2ff" text-anchor="middle" font-weight="600" >3</text>
+<text x="506" y="204" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="18" fill="#eaf2ff" text-anchor="middle" font-weight="600" >Prototype</text>
+<text x="506" y="228" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#9fbde3" text-anchor="middle" font-weight="400" >A working slice on real</text>
+<text x="506" y="246" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#9fbde3" text-anchor="middle" font-weight="400" >data, in days</text>
+<circle cx="694" cy="140" r="27" fill="#0f2c54" stroke="#cfe0f5" stroke-width="1.8"/>
+<text x="694" y="147" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="20" fill="#eaf2ff" text-anchor="middle" font-weight="600" >4</text>
+<text x="694" y="204" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="18" fill="#eaf2ff" text-anchor="middle" font-weight="600" >Integrate</text>
+<text x="694" y="228" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#9fbde3" text-anchor="middle" font-weight="400" >APIs, databases, queues,</text>
+<text x="694" y="246" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#9fbde3" text-anchor="middle" font-weight="400" >legacy formats</text>
+<circle cx="882" cy="140" r="27" fill="#0f2c54" stroke="#cfe0f5" stroke-width="1.8"/>
+<text x="882" y="147" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="20" fill="#eaf2ff" text-anchor="middle" font-weight="600" >5</text>
+<text x="882" y="204" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="18" fill="#eaf2ff" text-anchor="middle" font-weight="600" >Deploy</text>
+<text x="882" y="228" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#9fbde3" text-anchor="middle" font-weight="400" >Containers, CI/CD,</text>
+<text x="882" y="246" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#9fbde3" text-anchor="middle" font-weight="400" >monitoring, access control</text>
+<circle cx="1070" cy="140" r="27" fill="#0f2c54" stroke="#cfe0f5" stroke-width="1.8"/>
+<text x="1070" y="147" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="20" fill="#eaf2ff" text-anchor="middle" font-weight="600" >6</text>
+<text x="1070" y="204" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="18" fill="#eaf2ff" text-anchor="middle" font-weight="600" >Hand over</text>
+<text x="1070" y="228" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#9fbde3" text-anchor="middle" font-weight="400" >Docs, runbook, training,</text>
+<text x="1070" y="246" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#9fbde3" text-anchor="middle" font-weight="400" >feedback into the product</text>
+</svg>

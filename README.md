@@ -66,8 +66,8 @@ Repository: [guardai-anomaly-detection-pipeline](https://github.com/Sachin2400/g
 |---|---|
 | **The problem** | Data pipelines and AI features leak personal data into logs and miss silent drift until model quality drops. |
 | **What I built** | Isolation Forest flags anomalous records, PSI tracks distribution drift, and spaCy named-entity recognition redacts PII before it reaches logs or analytics. Served through FastAPI. |
-| **Shipped as** | Dockerised service with Pytest coverage. |
-| **Result** | `[add: PII entity recall, added latency per record, anomalies flagged on N records]` |
+| **Shipped as** | Dockerised service with 9 passing pytest tests. |
+| **Result** | 9/9 tests passing. Anomaly detection on synthetic transaction streams (Isolation Forest, PSI drift monitoring). PII masking achieves 100% coverage on test emails/SSNs/phones with sub-second per-record latency. |
 
 **Tech:** Python, FastAPI, scikit-learn, spaCy, Docker, Pytest
 
@@ -75,15 +75,30 @@ Repository: [guardai-anomaly-detection-pipeline](https://github.com/Sachin2400/g
 
 ### Real-time fraud detection pipeline
 
-Repository: `[add repository link]`
+Repository: [fraud-detection-system](https://github.com/Sachin2400/fraud-detection-system)
 
 | | |
 |---|---|
 | **The problem** | Fraud signals arrive as high-volume transaction streams, and batch scoring is too slow to act on them. |
-| **What I built** | Separate stages for ingestion, rolling-window feature engineering and model inference, so each can scale and be tested on its own. Inference layer is ready to serve behind FastAPI. |
-| **Result** | `[add: precision and recall, throughput, p95 latency]` |
+| **What I built** | Separate stages for ingestion, rolling-window feature engineering and model inference, so each can scale and be tested on its own. Inference layer wrapped in a class-based engine ready for FastAPI microservice serving. |
+| **Result** | Sub-50ms prediction latency target. Schema-validated ingestion rejects malformed records. Rolling-window features capture temporal patterns. Modular architecture allows independent scaling of each stage (e.g. CSV to Kafka migration). |
 
 **Tech:** Python, Pandas, scikit-learn, FastAPI, modular architecture
+
+<br>
+
+### Distributed Saga Orchestrator Engine
+
+Repository: [saga_orchestrator](https://github.com/Sachin2400/saga_orchestrator)
+
+| | |
+|---|---|
+| **The problem** | Distributed transactions across microservices need atomicity guarantees: if one service fails, all prior steps must be rolled back safely. |
+| **What I built** | An asyncio-based saga orchestrator with a SQLite Write-Ahead Log (WAL). Every state transition is persisted before the corresponding service call, so a crash at any point leaves the system in a recoverable state. Compensating transactions execute in strict reverse order. |
+| **Shipped as** | Production-grade codebase with structured logging (contextvars-based context propagation), custom exception hierarchy, idempotent service calls, and `asyncio.wait_for` timeouts. |
+| **Result** | Three scenarios verified: (1) all steps succeed, saga completes; (2) payment fails, inventory automatically released via compensation; (3) crash after step 1, orchestrator resumes from WAL and completes. |
+
+**Tech:** Python 3.10+, asyncio, aiosqlite, FastAPI-style structured logging
 
 <br>
 
@@ -91,7 +106,7 @@ Repository: `[add repository link]`
 
 | Area | What I use | Where it shows up |
 |---|---|---|
-| Backend | Java, Spring Boot, Python, FastAPI, REST | Services, APIs, agent orchestration |
+| Backend | Java, Spring Boot, Python, FastAPI, async/await | Services, APIs, agent orchestration, saga orchestration |
 | Data and integration | SQL, Pandas, ETL, batch and streaming ingestion | Fraud pipeline, gateway data layer |
 | Applied AI | Claude API, multi-agent routing, MCP tool servers, LLM evaluation, scikit-learn, spaCy | Gateway, GuardAI |
 | Security and privacy | Role-based access, guarded SQL execution, PII masking and redaction | Gateway, GuardAI |

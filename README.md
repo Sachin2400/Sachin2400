@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/header.svg" alt="Sachin Kumar Choudhary, Forward Deployed Engineer" width="100%" />
+  <img src="assets/header.svg" alt="Sachin chaudhary, Forward Deployed Engineer" width="100%" />
 </div>
 
 <div align="center">

@@ -3,7 +3,7 @@
   <tr>
     <td width="80%" valign="top">
       <!-- Dynamic Glowing Banner Header -->
-      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,163a6b,f5c542&height=180&section=header&text=Sachin%20Choudhary&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20MERN%20Software%20Engineer&descSize=18&descAlignY=65&descColor=f5c542" alt="Sachin Choudhary Header Banner" width="100%" />
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,163a6b,f5c542&height=180&section=header&text=Sachin%20Chaudhary&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20MERN%20Software%20Engineer&descSize=18&descAlignY=65&descColor=f5c542" alt="Sachin Choudhary Header Banner" width="100%" />
     </td>
     <td width="20%" align="center" valign="middle">
       <!-- Your Profile Picture (Make sure to upload the photo to your repo as assets/photo.png or update the URL) -->
@@ -39,7 +39,7 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="65%" valign="top">
-      <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="30" /> About Me</h2>
+      <h2>🚀 About Me</h2>
       <p>I am a <strong>Full-Stack Web Developer</strong> specializing in building web applications using the <strong>MERN Stack (MongoDB, Express.js, React.js, Node.js)</strong>.</p>
       <p>I focus on creating intuitive user experiences powered by secure backend APIs, custom authentication workflows, complex database relationships, and optimized frontend state management.</p>
     </td>
@@ -53,7 +53,7 @@
 <br>
 
 <!-- section: MERN Core Projects -->
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" /> Featured Web Applications</h2>
+<h2>💻 Featured Web Applications</h2>
 
 <!-- Project 1: E-Commerce -->
 <details open>
@@ -61,7 +61,7 @@
   <br>
   <table width="100%">
     <tr>
-      <td width="12%" align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shopping%20Cart.png" width="55" alt="E-Commerce" /></td>
+      <td width="12%" align="center" style="font-size: 32px;">🛒</td>
       <td>
         <strong>Full-Featured E-Commerce Ecosystem</strong> | <a href="https://github.com/Sachin2400/mern-ecommerce-platform">GitHub Repository</a>
         <br><br>
@@ -81,7 +81,7 @@
   <br>
   <table width="100%">
     <tr>
-      <td width="12%" align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Building%20Construction.png" width="55" alt="Booking App" /></td>
+      <td width="12%" align="center" style="font-size: 32px;">🏨</td>
       <td>
         <strong>Real-Time Reservation & Booking System</strong> | <a href="https://github.com/Sachin2400/MERN-Booking-App-main">GitHub Repository</a>
         <br><br>
@@ -101,7 +101,7 @@
   <br>
   <table width="100%">
     <tr>
-      <td width="12%" align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Television.png" width="55" alt="YouTube Clone" /></td>
+      <td width="12%" align="center" style="font-size: 32px;">📺</td>
       <td>
         <strong>High-Performance Media Streaming UI</strong> | <a href="https://github.com/Sachin2400/youtube-clone">GitHub Repository</a>
         <br><br>
@@ -120,7 +120,7 @@
   <br>
   <table width="100%">
     <tr>
-      <td width="12%" align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Stethoscope.png" width="55" alt="Disease Predictor" /></td>
+      <td width="12%" align="center" style="font-size: 32px;">🩺</td>
       <td>
         <strong>Interactive ML Health Web App</strong> | <a href="https://github.com/Sachin2400/Disease-Predictor-Application">GitHub Repository</a>
         <br><br>
@@ -137,7 +137,7 @@
 
 <!-- section: technical stack -->
 <div align="center">
-  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Toolbox" width="30" /> Technical Toolbox</h2>
+  <h2>🧰 Technical Toolbox</h2>
   <br>
   <img src="https://skillicons.dev/icons?i=js,mongodb,express,react,nodejs,html,css,tailwind,bootstrap,redux,postman,git,github,vscode" alt="Skills Toolbox" />
 </div>
@@ -147,7 +147,7 @@
 
 <!-- section: stats -->
 <div align="center">
-  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="30" /> Github stats & Top Languages</h2>
+  <h2>📈 Github Stats & Top Languages</h2>
   <br>
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sachin2400&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f5c542&icon_color=f5c542&text_color=eaf2ff&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin2400&layout=compact&hide_border=true&bg_color=0d1117&title_color=f5c542&text_color=eaf2ff" alt="Top Languages" />

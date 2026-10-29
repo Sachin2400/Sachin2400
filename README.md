@@ -6,7 +6,7 @@
       <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,163a6b,f5c542&height=180&section=header&text=Sachin%20Choudhary&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20MERN%20Software%20Engineer&descSize=18&descAlignY=65&descColor=f5c542" alt="Sachin Choudhary Header Banner" width="100%" />
     </td>
     <td width="20%" align="center" valign="middle">
-      <!-- Your Profile Picture (Make sure to upload the photo to your repo as assets/profile.jpg or update the URL) -->
+      <!-- Your Profile Picture (Make sure to upload the photo to your repo as assets/photo.png or update the URL) -->
       <img src="assets/photo.png" alt="Sachin Choudhary" width="180" style="border-radius: 70%; border: 2px solid #f5c542;" />
     </td>
   </tr>
@@ -147,7 +147,7 @@
 
 <!-- section: stats -->
 <div align="center">
-  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="30" /> Development Metrics</h2>
+  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="30" /> Github stats & Top Languages</h2>
   <br>
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sachin2400&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f5c542&icon_color=f5c542&text_color=eaf2ff&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin2400&layout=compact&hide_border=true&bg_color=0d1117&title_color=f5c542&text_color=eaf2ff" alt="Top Languages" />

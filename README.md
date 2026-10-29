@@ -7,7 +7,7 @@
     </td>
     <td width="20%" align="center" valign="middle">
       <!-- Your Profile Picture (Make sure to upload the photo to your repo as assets/profile.jpg or update the URL) -->
-      <img src="assets/profile.jpg" alt="Sachin Chaudhary" width="130" style="border-radius: 50%; border: 3px solid #f5c542;" />
+      <img src="assets/photo.png" alt="Sachin Chaudhary" width="130" style="border-radius: 50%; border: 3px solid #f5c542;" />
     </td>
   </tr>
 </table>

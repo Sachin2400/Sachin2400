@@ -149,8 +149,8 @@
 <div align="center">
   <h2>📈 Github Stats & Top Languages</h2>
   <br>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sachin2400&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f5c542&icon_color=f5c542&text_color=eaf2ff&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin2400&layout=compact&hide_border=true&bg_color=0d1117&title_color=f5c542&text_color=eaf2ff" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Profile-Sachin2400-0d1117?style=for-the-badge&logo=github&logoColor=f5c542" alt="GitHub Profile" />
+  <img src="https://img.shields.io/badge/Core%20Stack-MERN%20%7C%20Python%20%7C%20FastAPI-163a6b?style=for-the-badge" alt="Core Stack" />
 </div>
 
 <br>

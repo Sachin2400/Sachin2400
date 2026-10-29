@@ -57,7 +57,7 @@
 
 <!-- Project 1: E-Commerce -->
 <details open>
-  <summary>### 🛒 MERN E-Commerce Platform</summary>
+  <summary><b>🛒 MERN E-Commerce Platform</b></summary>
   <br>
   <table width="100%">
     <tr>
@@ -77,7 +77,7 @@
 
 <!-- Project 2: Booking App -->
 <details open>
-  <summary>### 🏨 MERN Hotel & Resource Booking Platform</summary>
+  <summary><b>🏨 MERN Hotel & Resource Booking Platform</b></summary>
   <br>
   <table width="100%">
     <tr>
@@ -97,7 +97,7 @@
 
 <!-- Project 3: YouTube Clone -->
 <details>
-  <summary>### 📺 Video Streaming Frontend (YouTube Clone)</summary>
+  <summary><b>📺 Video Streaming Frontend (YouTube Clone)</b></summary>
   <br>
   <table width="100%">
     <tr>
@@ -116,7 +116,7 @@
 
 <!-- Project 4: Disease Predictor App -->
 <details>
-  <summary>### 🩺 Predictive Health Application</summary>
+  <summary><b>🩺 Predictive Health Application</b></summary>
   <br>
   <table width="100%">
     <tr>

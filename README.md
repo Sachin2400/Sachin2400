@@ -3,7 +3,7 @@
   <tr>
     <td width="80%" valign="top">
       <!-- Dynamic Glowing Banner Header -->
-      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,163a6b,f5c542&height=180&section=header&text=Sachin%20Chaudhary&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20MERN%20Software%20Engineer&descSize=18&descAlignY=65&descColor=f5c542" alt="Sachin Choudhary Header Banner" width="100%" />
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,163a6b,f5c542&height=180&section=header&text=Sachin%20choudhary&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20MERN%20Software%20Engineer&descSize=18&descAlignY=65&descColor=f5c542" alt="Sachin Choudhary Header Banner" width="100%" />
     </td>
     <td width="20%" align="center" valign="middle">
       <!-- Your Profile Picture (Make sure to upload the photo to your repo as assets/profile.jpg or update the URL) -->
